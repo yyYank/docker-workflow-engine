@@ -1,0 +1,9 @@
+[submodule "docker-digdag"]
+	path = docker-digdag
+	url = ssh://git@github.com/szyn/docker-digdag.git
+[submodule "luigid_on_docker"]
+	path = luigid_on_docker
+	url = https://github.com/CM-Kajiwara/luigid_on_docker.git
+[submodule "docker-azkaban"]
+	path = docker-azkaban
+	url = git@github.com:puckel/docker-azkaban.git
