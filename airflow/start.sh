@@ -1,1 +1,2 @@
-docker run -d -p 8999:8080 puckel/docker-airflow webserver
+cd docker-airflow
+docker-compose -f docker-compose-LocalExecutor.yml up -d
